@@ -1,6 +1,6 @@
 <h1>Welcome to the coolest Tomcat webapp ever !</h1>
 
-<h2>This webapp was created by Victor</h2>
+<h2>Welcome to the most boring Tomcat webapp ever ...</h2>
 
  <ul>
   <li>Learn JavaScript</li>
